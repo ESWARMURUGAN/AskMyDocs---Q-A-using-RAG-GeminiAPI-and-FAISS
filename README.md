@@ -12,7 +12,7 @@ You give it your documents (PDF or TXT), ask a question, and it finds the most r
 
 ## Output
 
-![Output](output.png)
+![Output](Output.png)
 
 ---
 
